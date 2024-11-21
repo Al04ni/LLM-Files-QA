@@ -14,15 +14,14 @@ Whether for research, customer support, or personal projects, this repository pr
    ./setup.sh
  ```
 3. Activate the virtual environment:
-  -Windows:
+  - Windows:
   ```
      .\venv\Scripts\activate
-    
   ```
   - macOS/Linux:
    ```
      source venv/bin/activate
-    ```
+   ```
 4. Run the application:
    ```
      streamlit run app.py
