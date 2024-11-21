@@ -13,7 +13,7 @@ with st.sidebar:
 st.title(" File Q&A 📝 with Fela")
 
 # Initialize variables for model and tokenizer
-model_name = "mistralai/Mistral-7B"
+model_name = "meta-llama/Llama-2-7b-chat-hf"
 tokenizer, model = None, None
 
 try:
