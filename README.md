@@ -2,7 +2,8 @@
 
 Whether for research, customer support, or personal projects, this repository provides an idea for building scalable and practical solution for document Q&A using LLMs.
 
-## Setup
+<details>
+   <summary> Setup </summary>
 
 1. Clone the repository:
    ```
@@ -29,5 +30,11 @@ Whether for research, customer support, or personal projects, this repository pr
 
 
 Feel free to contribute, suggest improvements, or share your experiences with this repository as we continue to make knowledge more accessible and intuitive. 
+</details>
+
+---
+> [!Caution]
+> This project is still pending as we are still looking for great way to make LLM be able to get content from the uploaded file so that i can give out insights,
+> so stay tuned 😄, we are still working on it in in-doors.
 
 Happy coding!
